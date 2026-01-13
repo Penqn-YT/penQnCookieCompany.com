@@ -1,0 +1,7 @@
+#
+# ignore all .rtf files
+#
+*.rtf
+
+
+
