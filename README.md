@@ -1,4 +1,4 @@
-Some reason the password dialog pop-up does accept the login credentials when origin is mapped to GiHub.
+Some reason the password dialog pop-up does NOT accept the login credentials when origin is mapped to GiHub.
 May have cached the old password entries
 Clear the origin by removing the oringin
 And try
