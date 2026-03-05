@@ -7,7 +7,7 @@ Code:
 # List remote repositories (confirm origin exists)
 git remote -v
 
-# Remove remote origin      --BE CAREFUL WHaT ORIGIN YOU ARE REMOVING. VERIFY CAREFULLY & RESPECTFULLY TO OTHER ORIGINS
+# Remove remote origin      --BE CAREFUL WHaT ORIGIN YOU ARE REMOVING. VERIFY CAREFULLY
 
 # Verify removal
 git remote -v
